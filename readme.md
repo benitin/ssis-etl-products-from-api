@@ -19,7 +19,7 @@ This project download list of products from API with SQL Server Integration Serv
 
 3. Execute **etl-get-products.dtsx**.
 
-![For Loop Container for Products Data Flow](https://raw.githubusercontent.com/benitin/ssis-etl-products-from-api/for-loop-container-products.png "For Loop Container for Products Data Flow")
+![For Loop Container for Products Data Flow](https://raw.githubusercontent.com/benitin/ssis-etl-products-from-api/main/for-loop-container-products.png "For Loop Container for Products Data Flow")
 
-![Products Data Flow](https://raw.githubusercontent.com/benitin/ssis-etl-products-from-api/data-flow-products.png "Products Data Flow")
+![Products Data Flow](https://raw.githubusercontent.com/benitin/ssis-etl-products-from-api/main/data-flow-products.png "Products Data Flow")
 
