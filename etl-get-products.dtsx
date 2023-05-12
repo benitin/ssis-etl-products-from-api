@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="Package"
   DTS:PackageType="5"
-  DTS:VersionBuild="12"
-  DTS:VersionGUID="{08B98E2E-5067-4069-82A7-6BDFD8A1BB85}">
+  DTS:VersionBuild="14"
+  DTS:VersionGUID="{737FDBDD-A987-49E4-B0AB-ADE3C04C6F07}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -1563,7 +1563,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA]]></arrayElement>
           PanelSize="204.8,119.2"
           Size="204.8,162.4"
           Id="Package\FLC page counter"
-          TopLeft="437.142864587356,91.0000012762408" />
+          TopLeft="190.000003235681,76.4705893077654" />
       </GraphLayout>
     </LayoutInfo>
   </Package>
@@ -1575,14 +1575,14 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA]]></arrayElement>
         <NodeLayout
           Size="151.2,41.6"
           Id="Package\FLC page counter\DFT products source\SC src products"
-          TopLeft="492.85715125045,66.5294126977558" />
+          TopLeft="204.285717764679,60.4117655531346" />
         <NodeLayout
           Size="172,41.6"
           Id="Package\FLC page counter\DFT products source\OLEDB dst products"
-          TopLeft="482.857151080151,223.294120778675" />
+          TopLeft="194.28571759438,217.176473634054" />
         <EdgeLayout
           Id="Package\FLC page counter\DFT products source.Paths[Output 0]"
-          TopLeft="568.657151165301,108.129412697756">
+          TopLeft="280.08571767953,102.011765553135">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
